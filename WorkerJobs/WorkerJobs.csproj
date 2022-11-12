@@ -15,5 +15,6 @@
 
   <ItemGroup>
     <ProjectReference Include="..\WorkerJobs.Common\WorkerJobs.Common.csproj" />
+    <ProjectReference Include="..\WorkerJobs.DataAccess\WorkerJobs.DataAccess.csproj" />
   </ItemGroup>
 </Project>

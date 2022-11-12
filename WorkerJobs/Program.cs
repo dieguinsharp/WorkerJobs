@@ -1,4 +1,5 @@
 using WorkerJobs;
+using WorkerJobs.DataAccess.CurrencyValue;
 using WorkerJobs.Workers;
 
 IHost host = Host.CreateDefaultBuilder(args)
@@ -8,6 +9,7 @@ IHost host = Host.CreateDefaultBuilder(args)
         {
             options.ShutdownTimeout = TimeSpan.FromSeconds(10);
         });
+        services.AddScoped<ICurrencyValue, CurrencyValue>();
         services.AddHostedService<CurrencyValueWorker>();
     })
     .Build();

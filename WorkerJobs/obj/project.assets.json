@@ -632,6 +632,21 @@
         "runtime": {
           "bin/placeholder/WorkerJobs.Common.dll": {}
         }
+      },
+      "WorkerJobs.DataAccess/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "Newtonsoft.Json": "13.0.1",
+          "System.Data.SqlClient": "4.8.5",
+          "WorkerJobs.Common": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/WorkerJobs.DataAccess.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/WorkerJobs.DataAccess.dll": {}
+        }
       }
     }
   },
@@ -1708,6 +1723,11 @@
       "type": "project",
       "path": "../WorkerJobs.Common/WorkerJobs.Common.csproj",
       "msbuildProject": "../WorkerJobs.Common/WorkerJobs.Common.csproj"
+    },
+    "WorkerJobs.DataAccess/1.0.0": {
+      "type": "project",
+      "path": "../WorkerJobs.DataAccess/WorkerJobs.DataAccess.csproj",
+      "msbuildProject": "../WorkerJobs.DataAccess/WorkerJobs.DataAccess.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -1715,7 +1735,8 @@
       "Microsoft.Extensions.Hosting >= 6.0.1",
       "Newtonsoft.Json >= 13.0.1",
       "System.Data.SqlClient >= 4.8.5",
-      "WorkerJobs.Common >= 1.0.0"
+      "WorkerJobs.Common >= 1.0.0",
+      "WorkerJobs.DataAccess >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -1752,6 +1773,9 @@
           "projectReferences": {
             "C:\\Users\\diego\\OneDrive\\Área de Trabalho\\myjobs\\WorkerJobs\\WorkerJobs.Common\\WorkerJobs.Common.csproj": {
               "projectPath": "C:\\Users\\diego\\OneDrive\\Área de Trabalho\\myjobs\\WorkerJobs\\WorkerJobs.Common\\WorkerJobs.Common.csproj"
+            },
+            "C:\\Users\\diego\\OneDrive\\Área de Trabalho\\myjobs\\WorkerJobs\\WorkerJobs.DataAccess\\WorkerJobs.DataAccess.csproj": {
+              "projectPath": "C:\\Users\\diego\\OneDrive\\Área de Trabalho\\myjobs\\WorkerJobs\\WorkerJobs.DataAccess\\WorkerJobs.DataAccess.csproj"
             }
           }
         }

@@ -1,0 +1,15 @@
+C:\Users\diego\OneDrive\Área de Trabalho\myjobs\WorkerJobs\WorkerJobs.DataAccess\bin\Debug\net6.0\WorkerJobs.DataAccess.deps.json
+C:\Users\diego\OneDrive\Área de Trabalho\myjobs\WorkerJobs\WorkerJobs.DataAccess\bin\Debug\net6.0\WorkerJobs.DataAccess.dll
+C:\Users\diego\OneDrive\Área de Trabalho\myjobs\WorkerJobs\WorkerJobs.DataAccess\bin\Debug\net6.0\WorkerJobs.DataAccess.pdb
+C:\Users\diego\OneDrive\Área de Trabalho\myjobs\WorkerJobs\WorkerJobs.DataAccess\bin\Debug\net6.0\WorkerJobs.Common.dll
+C:\Users\diego\OneDrive\Área de Trabalho\myjobs\WorkerJobs\WorkerJobs.DataAccess\bin\Debug\net6.0\WorkerJobs.Common.pdb
+C:\Users\diego\OneDrive\Área de Trabalho\myjobs\WorkerJobs\WorkerJobs.DataAccess\obj\Debug\net6.0\WorkerJobs.DataAccess.csproj.AssemblyReference.cache
+C:\Users\diego\OneDrive\Área de Trabalho\myjobs\WorkerJobs\WorkerJobs.DataAccess\obj\Debug\net6.0\WorkerJobs.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diego\OneDrive\Área de Trabalho\myjobs\WorkerJobs\WorkerJobs.DataAccess\obj\Debug\net6.0\WorkerJobs.DataAccess.AssemblyInfoInputs.cache
+C:\Users\diego\OneDrive\Área de Trabalho\myjobs\WorkerJobs\WorkerJobs.DataAccess\obj\Debug\net6.0\WorkerJobs.DataAccess.AssemblyInfo.cs
+C:\Users\diego\OneDrive\Área de Trabalho\myjobs\WorkerJobs\WorkerJobs.DataAccess\obj\Debug\net6.0\WorkerJobs.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\diego\OneDrive\Área de Trabalho\myjobs\WorkerJobs\WorkerJobs.DataAccess\obj\Debug\net6.0\WorkerJobs.DataAccess.csproj.CopyComplete
+C:\Users\diego\OneDrive\Área de Trabalho\myjobs\WorkerJobs\WorkerJobs.DataAccess\obj\Debug\net6.0\WorkerJobs.DataAccess.dll
+C:\Users\diego\OneDrive\Área de Trabalho\myjobs\WorkerJobs\WorkerJobs.DataAccess\obj\Debug\net6.0\refint\WorkerJobs.DataAccess.dll
+C:\Users\diego\OneDrive\Área de Trabalho\myjobs\WorkerJobs\WorkerJobs.DataAccess\obj\Debug\net6.0\WorkerJobs.DataAccess.pdb
+C:\Users\diego\OneDrive\Área de Trabalho\myjobs\WorkerJobs\WorkerJobs.DataAccess\obj\Debug\net6.0\ref\WorkerJobs.DataAccess.dll

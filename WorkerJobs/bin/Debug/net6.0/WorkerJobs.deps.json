@@ -11,7 +11,8 @@
           "Microsoft.Extensions.Hosting": "6.0.1",
           "Newtonsoft.Json": "13.0.1",
           "System.Data.SqlClient": "4.8.5",
-          "WorkerJobs.Common": "1.0.0"
+          "WorkerJobs.Common": "1.0.0",
+          "WorkerJobs.DataAccess": "1.0.0"
         },
         "runtime": {
           "WorkerJobs.dll": {}
@@ -481,6 +482,16 @@
         "runtime": {
           "WorkerJobs.Common.dll": {}
         }
+      },
+      "WorkerJobs.DataAccess/1.0.0": {
+        "dependencies": {
+          "Newtonsoft.Json": "13.0.1",
+          "System.Data.SqlClient": "4.8.5",
+          "WorkerJobs.Common": "1.0.0"
+        },
+        "runtime": {
+          "WorkerJobs.DataAccess.dll": {}
+        }
       }
     }
   },
@@ -771,6 +782,11 @@
       "hashPath": "system.text.json.6.0.0.nupkg.sha512"
     },
     "WorkerJobs.Common/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "WorkerJobs.DataAccess/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

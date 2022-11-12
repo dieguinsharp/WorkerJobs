@@ -53,3 +53,5 @@ C:\Users\diego\OneDrive\Área de Trabalho\myjobs\WorkerJobs\WorkerJobs\bin\Debug
 C:\Users\diego\OneDrive\Área de Trabalho\myjobs\WorkerJobs\WorkerJobs\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
 C:\Users\diego\OneDrive\Área de Trabalho\myjobs\WorkerJobs\WorkerJobs\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
 C:\Users\diego\OneDrive\Área de Trabalho\myjobs\WorkerJobs\WorkerJobs\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\diego\OneDrive\Área de Trabalho\myjobs\WorkerJobs\WorkerJobs\bin\Debug\net6.0\WorkerJobs.DataAccess.dll
+C:\Users\diego\OneDrive\Área de Trabalho\myjobs\WorkerJobs\WorkerJobs\bin\Debug\net6.0\WorkerJobs.DataAccess.pdb
