@@ -7,6 +7,7 @@ namespace WorkerJobs.DataAccess.CurrencyValue {
 
     public interface ICurrencyValue {
         Task<CurrencyValueDTO.Root> GetCurrencyValue (string currencyType);
+        Task<string> GetDayAverageValue ();
         Task<bool> SaveCurrencyValue (CurrencyValueDTO currencyValueDTO);
     }
 
@@ -26,6 +27,26 @@ namespace WorkerJobs.DataAccess.CurrencyValue {
 
                 return new CurrencyValueDTO.Root() { USD = new CurrencyValueDTO() { Bid = 0, Create_Date = DateTime.MinValue } };
             }
+        }
+
+        public async Task<string> GetDayAverageValue () {
+            using(var conn = new SqlConnection(_stringConnection)) {
+
+                conn.Open();
+
+                var query = "SELECT AVG(CV.Value) " +
+                    $"FROM CurrencyValue as CV " +
+                    $"WHERE CV.WorkedTimestamp >= @timestamp;";
+
+                using(var cmd = new SqlCommand(query,conn)) {
+
+                    cmd.Parameters.Add("@timestamp", SqlDbType.DateTime2).Value = DateTime.Now.AddDays(-1);
+
+                    return (await cmd.ExecuteScalarAsync())?.ToString() ?? "Undefined";
+                }
+            }
+
+            return string.Empty;
         }
 
         public async Task<bool> SaveCurrencyValue (CurrencyValueDTO currencyValueDTO) {

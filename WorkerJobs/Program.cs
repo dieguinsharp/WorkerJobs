@@ -10,7 +10,9 @@ IHost host = Host.CreateDefaultBuilder(args)
             options.ShutdownTimeout = TimeSpan.FromSeconds(10);
         });
         services.AddScoped<ICurrencyValue, CurrencyValue>();
+        services.AddScoped<IWhatsAppApi, WhatsAppApi>();
         services.AddHostedService<CurrencyValueWorker>();
+        services.AddHostedService<CurrencyValueToWhatsAppWorker>();
     })
     .Build();
 

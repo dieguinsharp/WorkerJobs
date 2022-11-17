@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "v3+qIVfvaREkwqBOOi6wu766kuCnzznnzWXLAySi2xJ1itBlyI78LqnAaiW9HH8iC7/fBZxSkkgPSp4GDS1MJw==",
+  "dgSpecHash": "tu9T3sq0lZuPMaxmdc3QeU3+XopRFHyEoLmfvuzSroIdrsRKO9bPc2Ddgtm65Ohvh+uriY7JTdPk2YDcRu02Pg==",
   "success": true,
   "projectFilePath": "C:\\Users\\diego\\OneDrive\\Área de Trabalho\\myjobs\\WorkerJobs\\WorkerJobs\\WorkerJobs.csproj",
   "expectedPackageFiles": [
@@ -32,6 +32,7 @@
     "C:\\Users\\diego\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
     "C:\\Users\\diego\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",
     "C:\\Users\\diego\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\diego\\.nuget\\packages\\restsharp\\108.0.2\\restsharp.108.0.2.nupkg.sha512",
     "C:\\Users\\diego\\.nuget\\packages\\runtime.native.system.data.sqlclient.sni\\4.7.0\\runtime.native.system.data.sqlclient.sni.4.7.0.nupkg.sha512",
     "C:\\Users\\diego\\.nuget\\packages\\runtime.win-arm64.runtime.native.system.data.sqlclient.sni\\4.4.0\\runtime.win-arm64.runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512",
     "C:\\Users\\diego\\.nuget\\packages\\runtime.win-x64.runtime.native.system.data.sqlclient.sni\\4.4.0\\runtime.win-x64.runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512",
