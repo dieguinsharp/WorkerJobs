@@ -47,7 +47,7 @@ namespace WorkerJobs.Workers {
 
                 _logger.LogInformation($"CurrencyValueToWhatsAppWorker: Sended day average value to WhatsApp.");          
 
-                await Task.Delay(5000, stoppingToken);
+                await Task.Delay(60000, stoppingToken);
                 
             }
 
