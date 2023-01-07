@@ -9,7 +9,7 @@ using WorkerJobs.DataAccess.CurrencyValue;
 namespace WorkerJobs.Workers {
     internal class CurrencyValueToWhatsAppWorker:BackgroundService {
 
-        // your complet number (+5531....)
+        // you need to write a full number, example: +X DDD XXXXXXXXX
         // to use the api, please use the https://user.ultramsg.com/ website to register
         private readonly string _number = "XXXXXXXXXX";
 
