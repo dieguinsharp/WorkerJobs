@@ -38,5 +38,5 @@
   
   Now we need see the result on console about the routine progress. [Go To](Images/console.jpeg)
 
-
+  And your whatsapp should have something like this: [Go To](Images/zap.jpeg)
 
