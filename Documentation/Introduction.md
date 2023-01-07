@@ -16,5 +16,7 @@
   This hosted service have too a second routine on this same hosted service: We created a routine to get a average dolar price and send this value to whatsapp message using a external API. And in this case, we used a 60 seconds to delay. So, 60 by 60 seconds this service send a message to whatsapp.
   
 # How to use this hosted service
+
+  You need to create a account on [Whatsapp Api](https://user.ultramsg.com), after that, please create a api instance on this api (the tutorial is there).
   
-  
+  After that, you need to create a database on your [environment](CreateDatabase.sql)
