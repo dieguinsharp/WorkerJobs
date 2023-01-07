@@ -17,6 +17,12 @@
   
 # How to use this hosted service
 
-  You need to create a account on [Whatsapp Api](https://user.ultramsg.com), after that, please create a api instance on this api (the tutorial is there).
+  You need to create a account on [Whatsapp Api](https://user.ultramsg.com), after that, please create a api instance on this api (the tutorial is there) and add your whatsapp scan in created instance.
   
-  After that, you need to create a database on your [environment](CreateDatabase.sql)
+  After that, you need to create a database on your [environment](CreateDatabase.sql).
+  
+# Configuration
+
+  
+
+  
