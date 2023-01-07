@@ -23,6 +23,24 @@
   
 # Configuration
 
+  After the create you whatsapp instance and create your database and table, let's go see a little about the this project.
   
+  To begin, it needs add the two routine that was created: the get dolar value and save to database and get de average value and send to whatsapp. [Go To](../HostedService/WorkerJobs/Program.cs)
 
+  After that, you need change your string connection on this file: [Go to](../HostedService/WorkerJobs.DataAccess/CurrencyValue/CurrencyValue.cs)
+  
+  Now you need to use your instance informations about your Whatsapp Api that was created on [Whatsapp Api](https://user.ultramsg.com) in file. [Go To](../HostedService/WorkerJobs.DataAccess/CurrencyValue/WhatsAppApi.cs)
+  
+  The last step you need to add your number phone that was scanned on WhatsApp Api. [Go To](../HostedService/WorkerJobs/Workers/CurrencyValueToWhatsAppWorker.cs)
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
   
