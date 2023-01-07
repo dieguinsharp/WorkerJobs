@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\diego\\OneDrive\\Área de Trabalho\\HostedService\\WorkerJobs.DataAccess\\WorkerJobs.DataAccess.csproj": {}
+    "C:\\Users\\diego\\OneDrive\\Área de Trabalho\\HostedService\\HostedService\\WorkerJobs.DataAccess\\WorkerJobs.DataAccess.csproj": {}
   },
   "projects": {
-    "C:\\Users\\diego\\OneDrive\\Área de Trabalho\\HostedService\\WorkerJobs.Common\\WorkerJobs.Common.csproj": {
+    "C:\\Users\\diego\\OneDrive\\Área de Trabalho\\HostedService\\HostedService\\WorkerJobs.Common\\WorkerJobs.Common.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\diego\\OneDrive\\Área de Trabalho\\HostedService\\WorkerJobs.Common\\WorkerJobs.Common.csproj",
+        "projectUniqueName": "C:\\Users\\diego\\OneDrive\\Área de Trabalho\\HostedService\\HostedService\\WorkerJobs.Common\\WorkerJobs.Common.csproj",
         "projectName": "WorkerJobs.Common",
-        "projectPath": "C:\\Users\\diego\\OneDrive\\Área de Trabalho\\HostedService\\WorkerJobs.Common\\WorkerJobs.Common.csproj",
+        "projectPath": "C:\\Users\\diego\\OneDrive\\Área de Trabalho\\HostedService\\HostedService\\WorkerJobs.Common\\WorkerJobs.Common.csproj",
         "packagesPath": "C:\\Users\\diego\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\diego\\OneDrive\\Área de Trabalho\\HostedService\\WorkerJobs.Common\\obj\\",
+        "outputPath": "C:\\Users\\diego\\OneDrive\\Área de Trabalho\\HostedService\\HostedService\\WorkerJobs.Common\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\diego\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -59,14 +59,14 @@
         }
       }
     },
-    "C:\\Users\\diego\\OneDrive\\Área de Trabalho\\HostedService\\WorkerJobs.DataAccess\\WorkerJobs.DataAccess.csproj": {
+    "C:\\Users\\diego\\OneDrive\\Área de Trabalho\\HostedService\\HostedService\\WorkerJobs.DataAccess\\WorkerJobs.DataAccess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\diego\\OneDrive\\Área de Trabalho\\HostedService\\WorkerJobs.DataAccess\\WorkerJobs.DataAccess.csproj",
+        "projectUniqueName": "C:\\Users\\diego\\OneDrive\\Área de Trabalho\\HostedService\\HostedService\\WorkerJobs.DataAccess\\WorkerJobs.DataAccess.csproj",
         "projectName": "WorkerJobs.DataAccess",
-        "projectPath": "C:\\Users\\diego\\OneDrive\\Área de Trabalho\\HostedService\\WorkerJobs.DataAccess\\WorkerJobs.DataAccess.csproj",
+        "projectPath": "C:\\Users\\diego\\OneDrive\\Área de Trabalho\\HostedService\\HostedService\\WorkerJobs.DataAccess\\WorkerJobs.DataAccess.csproj",
         "packagesPath": "C:\\Users\\diego\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\diego\\OneDrive\\Área de Trabalho\\HostedService\\WorkerJobs.DataAccess\\obj\\",
+        "outputPath": "C:\\Users\\diego\\OneDrive\\Área de Trabalho\\HostedService\\HostedService\\WorkerJobs.DataAccess\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\diego\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -83,8 +83,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\diego\\OneDrive\\Área de Trabalho\\HostedService\\WorkerJobs.Common\\WorkerJobs.Common.csproj": {
-                "projectPath": "C:\\Users\\diego\\OneDrive\\Área de Trabalho\\HostedService\\WorkerJobs.Common\\WorkerJobs.Common.csproj"
+              "C:\\Users\\diego\\OneDrive\\Área de Trabalho\\HostedService\\HostedService\\WorkerJobs.Common\\WorkerJobs.Common.csproj": {
+                "projectPath": "C:\\Users\\diego\\OneDrive\\Área de Trabalho\\HostedService\\HostedService\\WorkerJobs.Common\\WorkerJobs.Common.csproj"
               }
             }
           }

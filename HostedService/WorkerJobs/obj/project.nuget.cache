@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "0wILXbJ3Ld3sg7hFVTfVh5kO6HsAu5iZGhrBBQijUmiDU9K9FPn1my9//aAvd503KZDAQEUnSmBhe8JTPBUDxA==",
+  "dgSpecHash": "tc+wA2ZtV/NSec2l0c2MNGrKG8Gu7/RY9WjD7xW8jFzL5z78OtslpHeFXyXIs+rTvHl6BGXZnPqHIjn3lU9XnQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\diego\\OneDrive\\Área de Trabalho\\HostedService\\WorkerJobs\\WorkerJobs.csproj",
+  "projectFilePath": "C:\\Users\\diego\\OneDrive\\Área de Trabalho\\HostedService\\HostedService\\WorkerJobs\\WorkerJobs.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\diego\\.nuget\\packages\\microsoft.extensions.configuration\\6.0.0\\microsoft.extensions.configuration.6.0.0.nupkg.sha512",
     "C:\\Users\\diego\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\6.0.0\\microsoft.extensions.configuration.abstractions.6.0.0.nupkg.sha512",

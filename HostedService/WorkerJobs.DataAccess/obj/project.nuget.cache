@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "vPMkbkei2OjtkellTXmE2M7DcbKEy4nH2OWxGlzRLs5ClD1Hghde1lEgFf1hpLVznfhQEziSTCh/Awb3/8k1Cw==",
+  "dgSpecHash": "LozOKoUy8bqg3KBx7PbP5kAET3d2+Ft2E+KnNCJV6IbdGVKkKdrscOuJmbinrB/Hr0zQazKaHkXIfWlWrpVs2w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\diego\\OneDrive\\Área de Trabalho\\HostedService\\WorkerJobs.DataAccess\\WorkerJobs.DataAccess.csproj",
+  "projectFilePath": "C:\\Users\\diego\\OneDrive\\Área de Trabalho\\HostedService\\HostedService\\WorkerJobs.DataAccess\\WorkerJobs.DataAccess.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\diego\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
     "C:\\Users\\diego\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",

@@ -10,3 +10,15 @@ C:\Users\diego\OneDrive\Área de Trabalho\myjobs\WorkerJobs\WorkerJobs.Common\ob
 C:\Users\diego\OneDrive\Área de Trabalho\myjobs\WorkerJobs\WorkerJobs.Common\obj\Debug\net6.0\refint\WorkerJobs.Common.dll
 C:\Users\diego\OneDrive\Área de Trabalho\myjobs\WorkerJobs\WorkerJobs.Common\obj\Debug\net6.0\WorkerJobs.Common.pdb
 C:\Users\diego\OneDrive\Área de Trabalho\myjobs\WorkerJobs\WorkerJobs.Common\obj\Debug\net6.0\ref\WorkerJobs.Common.dll
+C:\Users\diego\OneDrive\Área de Trabalho\HostedService\HostedService\WorkerJobs.Common\bin\Debug\net6.0\WorkerJobs.Common.deps.json
+C:\Users\diego\OneDrive\Área de Trabalho\HostedService\HostedService\WorkerJobs.Common\bin\Debug\net6.0\WorkerJobs.Common.dll
+C:\Users\diego\OneDrive\Área de Trabalho\HostedService\HostedService\WorkerJobs.Common\bin\Debug\net6.0\WorkerJobs.Common.pdb
+C:\Users\diego\OneDrive\Área de Trabalho\HostedService\HostedService\WorkerJobs.Common\obj\Debug\net6.0\WorkerJobs.Common.csproj.AssemblyReference.cache
+C:\Users\diego\OneDrive\Área de Trabalho\HostedService\HostedService\WorkerJobs.Common\obj\Debug\net6.0\WorkerJobs.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diego\OneDrive\Área de Trabalho\HostedService\HostedService\WorkerJobs.Common\obj\Debug\net6.0\WorkerJobs.Common.AssemblyInfoInputs.cache
+C:\Users\diego\OneDrive\Área de Trabalho\HostedService\HostedService\WorkerJobs.Common\obj\Debug\net6.0\WorkerJobs.Common.AssemblyInfo.cs
+C:\Users\diego\OneDrive\Área de Trabalho\HostedService\HostedService\WorkerJobs.Common\obj\Debug\net6.0\WorkerJobs.Common.csproj.CoreCompileInputs.cache
+C:\Users\diego\OneDrive\Área de Trabalho\HostedService\HostedService\WorkerJobs.Common\obj\Debug\net6.0\WorkerJobs.Common.dll
+C:\Users\diego\OneDrive\Área de Trabalho\HostedService\HostedService\WorkerJobs.Common\obj\Debug\net6.0\refint\WorkerJobs.Common.dll
+C:\Users\diego\OneDrive\Área de Trabalho\HostedService\HostedService\WorkerJobs.Common\obj\Debug\net6.0\WorkerJobs.Common.pdb
+C:\Users\diego\OneDrive\Área de Trabalho\HostedService\HostedService\WorkerJobs.Common\obj\Debug\net6.0\ref\WorkerJobs.Common.dll

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "J/OIRWRdo8k8TBtid2j46Pf+NEqgS/HNt9TayIE0rJdK3MdhIsmh4YK/PUn5Yv38bi/MDQLvwx9b9UBMpF10MA==",
+  "dgSpecHash": "dNxgpMg4kkdOVhyuMyCN/7ulKyaqisfQlOs89v8Tb1nZDbSnm2ZUX+nku3vjWGli5AX8zyjw1HJIE6ik4p9S9w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\diego\\OneDrive\\Área de Trabalho\\HostedService\\WorkerJobs.Common\\WorkerJobs.Common.csproj",
+  "projectFilePath": "C:\\Users\\diego\\OneDrive\\Área de Trabalho\\HostedService\\HostedService\\WorkerJobs.Common\\WorkerJobs.Common.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

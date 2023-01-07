@@ -11,7 +11,7 @@ namespace WorkerJobs.Workers {
 
         // your complet number (+5531....)
         // to use the api, please use the https://user.ultramsg.com/ website to register
-        private readonly string _number = "";
+        private readonly string _number = "31995167343";
 
         private readonly ICurrencyValue _currencyValueService;
         private readonly IWhatsAppApi _whatsAppApi;

@@ -15,8 +15,8 @@ namespace WorkerJobs.DataAccess.CurrencyValue {
 
         // please read this documentation project
 
-        private string _instance = "";
-        private string _token = "";
+        private string _instance = "instanceXXXXX";
+        private string _token = "XXXXXXXXXXXXXXXXXX";
 
         public async Task<bool> SendMessageToWhatsApp (string number, string message) {
             using(HttpClient web = new HttpClient()) {

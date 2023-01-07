@@ -13,9 +13,9 @@ namespace WorkerJobs.DataAccess.CurrencyValue {
 
     public class CurrencyValue : ICurrencyValue {
 
-        private string _stringConnection = "Server=localhost;Database=WorkerJobs;Persist Security info=True;Trusted_Connection=True;Integrated Security=SSPI";
+        private string _stringConnection = "Server=SERVERINSTANCENAME;Database=WorkerJobs;Persist Security info=True;Trusted_Connection=True;Integrated Security=SSPI";
         private string _apiUrl = "https://economia.awesomeapi.com.br/json/all/";
-
+        
         public async Task<CurrencyValueDTO.Root> GetCurrencyValue (string currencyType) {
             using(HttpClient web = new HttpClient()) {
 

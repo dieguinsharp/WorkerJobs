@@ -1917,11 +1917,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\diego\\OneDrive\\Área de Trabalho\\HostedService\\WorkerJobs\\WorkerJobs.csproj",
+      "projectUniqueName": "C:\\Users\\diego\\OneDrive\\Área de Trabalho\\HostedService\\HostedService\\WorkerJobs\\WorkerJobs.csproj",
       "projectName": "WorkerJobs",
-      "projectPath": "C:\\Users\\diego\\OneDrive\\Área de Trabalho\\HostedService\\WorkerJobs\\WorkerJobs.csproj",
+      "projectPath": "C:\\Users\\diego\\OneDrive\\Área de Trabalho\\HostedService\\HostedService\\WorkerJobs\\WorkerJobs.csproj",
       "packagesPath": "C:\\Users\\diego\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\diego\\OneDrive\\Área de Trabalho\\HostedService\\WorkerJobs\\obj\\",
+      "outputPath": "C:\\Users\\diego\\OneDrive\\Área de Trabalho\\HostedService\\HostedService\\WorkerJobs\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\diego\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -1938,11 +1938,11 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\diego\\OneDrive\\Área de Trabalho\\HostedService\\WorkerJobs.Common\\WorkerJobs.Common.csproj": {
-              "projectPath": "C:\\Users\\diego\\OneDrive\\Área de Trabalho\\HostedService\\WorkerJobs.Common\\WorkerJobs.Common.csproj"
+            "C:\\Users\\diego\\OneDrive\\Área de Trabalho\\HostedService\\HostedService\\WorkerJobs.Common\\WorkerJobs.Common.csproj": {
+              "projectPath": "C:\\Users\\diego\\OneDrive\\Área de Trabalho\\HostedService\\HostedService\\WorkerJobs.Common\\WorkerJobs.Common.csproj"
             },
-            "C:\\Users\\diego\\OneDrive\\Área de Trabalho\\HostedService\\WorkerJobs.DataAccess\\WorkerJobs.DataAccess.csproj": {
-              "projectPath": "C:\\Users\\diego\\OneDrive\\Área de Trabalho\\HostedService\\WorkerJobs.DataAccess\\WorkerJobs.DataAccess.csproj"
+            "C:\\Users\\diego\\OneDrive\\Área de Trabalho\\HostedService\\HostedService\\WorkerJobs.DataAccess\\WorkerJobs.DataAccess.csproj": {
+              "projectPath": "C:\\Users\\diego\\OneDrive\\Área de Trabalho\\HostedService\\HostedService\\WorkerJobs.DataAccess\\WorkerJobs.DataAccess.csproj"
             }
           }
         }
