@@ -13,7 +13,7 @@ namespace WorkerJobs.DataAccess.CurrencyValue {
 
     public class WhatsAppApi : IWhatsAppApi {
 
-        // please see this website to create your credentials to use the WhatsApp api: https://user.ultramsg.com/
+        // please read this documentation project
 
         private string _instance = "";
         private string _token = "";
